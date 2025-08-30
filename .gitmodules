@@ -1,0 +1,3 @@
+[submodule "acads_its_2025"]
+	path = acads_its_2025
+	url = https://github.com/luthfiherianda/academy-data-science-for-business.git
