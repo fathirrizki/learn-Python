@@ -1,2 +1,2 @@
 # learn-Python
-Fathir's journey to learn Python
+Fathir's journey learning Python
